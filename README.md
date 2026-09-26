@@ -1,1 +1,1 @@
-# Library-managment-System
+Java + JDBC + MySQL console app for managing a library's books, members, and book issues. Supports adding/searching books, registering members, issuing and returning books, and automatically calculating overdue fines. Built using core JDBC concepts like PreparedStatement, transactions (commit/rollback), and foreign key relationships, with input validation to keep the data clean.
